@@ -6,3 +6,4 @@
 
 - Nova Feature 1
 
+- Nova Feature 2 
